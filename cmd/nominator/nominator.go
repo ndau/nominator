@@ -11,7 +11,7 @@ import (
 	"time"
 
 	arg "github.com/alexflint/go-arg"
-	"github.com/oneiro-ndev/o11y/pkg/honeycomb"
+	"github.com/ndau/o11y/pkg/honeycomb"
 	log "github.com/sirupsen/logrus"
 )
 
